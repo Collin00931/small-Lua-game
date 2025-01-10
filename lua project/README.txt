@@ -1,0 +1,1 @@
+--[to play this game first install the latest version of lua in your system path. After that you need to open the file in cmd and type "lua main.lua" without the ".]
